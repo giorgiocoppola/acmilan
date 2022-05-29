@@ -42,7 +42,8 @@ body {
 
     background-image: url("milan-campione.jpeg");
     background-repeat:no-repeat;
-    background-size: 1280px 1025px;
+    background-size: 1280px 1060px;
+    
        
 }
 
@@ -59,7 +60,7 @@ main {
     height: 400px;
     margin-left:23px;
     position:relative;
-    top:280px;
+    top:100px;
     background-color:red;
 
 }

@@ -41,8 +41,35 @@ body {
 
     background-image: url("milan-campione.jpeg");
     background-repeat:no-repeat;
-    background-size: 1280px 1039px;
+    background-size: 1280px 1539px;
        
+}
+
+main {
+
+    
+    width: 1245px;
+    height: 1230px;
+}
+
+.image {
+
+
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    margin-top:60px;
+    
+}
+
+.img {
+
+    margin-top: 40px;
+}
+
+#img1,#img2,#img3 {
+
+    margin-top:0;
 }
 
 h1 {
